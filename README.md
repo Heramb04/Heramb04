@@ -27,4 +27,4 @@ I’ll keep adding new work as I learn and build.
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=Heramb04&layout=compact)
 
 ## Hugging Face
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-heramb04-blue?logo=huggingface&style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-heramb04-blue?logo=huggingface&style=flat-square)(https://huggingface.co/heramb04)
