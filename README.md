@@ -1,42 +1,27 @@
-## Hello!👋
+# Heramb04
 
-TL:DR 
-- 🌱 I’m currently learning TensorFlow
-- 📫 How to reach me: Check out my LinkedIn or Email me @joshiheramb2109@gmail.com
-- 😄 Pronouns: He/Him
+Hello! I'm Heramb, a tech enthusiast exploring artificial intelligence and cloud computing.  
+Currently learning TensorFlow, I aim to build intelligent solutions that address real‑world problems.
 
-# 👋 Hi there, I'm Heramb!
+## About Me
+- **Passions**: Artificial Intelligence, Cloud Computing  
+- **Current Focus**: TensorFlow and machine‑learning projects
 
-## 🚀 About Me
+## Projects
+Check out my GitHub profile for a growing list of projects.  
+I’ll keep adding new work as I learn and build.
 
-I'm a cloud computing and AI enthusiast with experience in AWS. I love solving problems, building projects, and continuously learning new skills. Currently, I’m focusing on Ai Driven Cloud Architectures. 
-
-- 🌱 I’m currently learning python for AI
-- 📫 How to reach me: joshiheramb2109@gmail.com
-
----
-
-## 🛠️ My Skills
-
-- **Languages**: Python
-- **Frameworks & Libraries**: Tensorflow
-- **Tools & Platforms**: GitHub, AWS
+## Contact
+- **LinkedIn**: https://www.linkedin.com/in/hmj2504  
+- **Email**: joshiheramb2109@gmail.com
 
 ---
 
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Heramb04&show_icons=true&theme=radical)
 
-## 📊 GitHub Stats
+## Contribution Graph
+![GitHub contributions](https://github-readme-activity-graph.vercel.app/graph?username=Heramb04&theme=react&hide_border=true)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?Heramb04=Heramb04&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-
----
-
-## 🤝 Let's Connect!
-
-- [LinkedIn]www.linkedin.com/in/hmj2504
-- [Email]joshiheramb2109@gmail.com
-
----
-
-Thank you for visiting my GitHub! Feel free to explore my repositories, open an issue, or get in touch if you'd like to collaborate. 😊
-
+## Top Programming Languages
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=Heramb04&layout=compact)
