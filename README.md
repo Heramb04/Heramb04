@@ -25,3 +25,8 @@ I’ll keep adding new work as I learn and build.
 
 ## Top Programming Languages
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=Heramb04&layout=compact)
+
+## Hugging Face
+- **Profile**: https://huggingface.co/heramb04
+
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-?-brightgreen?style=flat&logo=huggingface)](https://huggingface.co/heramb04)
