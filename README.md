@@ -1,7 +1,6 @@
 ## Hello!👋
 
-TL:DR
-- 🔭 I’m currently working 
+TL:DR 
 - 🌱 I’m currently learning TensorFlow
 - 📫 How to reach me: Check out my LinkedIn or Email me @joshiheramb2109@gmail.com
 - 😄 Pronouns: He/Him
@@ -28,7 +27,7 @@ I'm a cloud computing and AI enthusiast with experience in AWS. I love solving p
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?Heramb04=your-Heramb04&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?Heramb04=Heramb04&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ---
 
