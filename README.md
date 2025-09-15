@@ -28,4 +28,4 @@ I’ll keep adding new work as I learn and build.
 
 ## Hugging Face
 - **Profile**: https://huggingface.co/heramb04
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-?-brightgreen?style=flat&logo=huggingface)](https://huggingface.co/heramb04)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-heramb04-blue?logo=huggingface&style=flat-square)
