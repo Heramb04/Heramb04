@@ -1,5 +1,3 @@
-# Heramb04
-
 Hello! I'm Heramb, a tech enthusiast exploring artificial intelligence and cloud computing.  
 Currently learning TensorFlow, I aim to build intelligent solutions that address real‑world problems.
 
