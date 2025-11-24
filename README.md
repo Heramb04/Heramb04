@@ -1,9 +1,9 @@
-Hello! I'm Heramb, a tech enthusiast exploring artificial intelligence and cloud computing.  
+Hello! I'm Heramb, a tech enthusiast exploring artificial intelligence, cloud computing & DevOps.  
 Currently learning TensorFlow, I aim to build intelligent solutions that address real‑world problems.
 
 ## About Me
-- **Passions**: Artificial Intelligence, Cloud Computing  
-- **Current Focus**: TensorFlow and machine‑learning projects
+- **Passions**: Artificial Intelligence, Cloud Computing, DevOps  
+- **Current Focus**: Machine‑learning projects
 
 ## Projects
 Check out my GitHub profile for a growing list of projects.  
